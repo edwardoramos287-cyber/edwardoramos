@@ -1,0 +1,18 @@
+/* selector por etiqueta */
+body {
+    background-color: rgb(255, 255, 255);
+}
+h1 {
+    color: rgb(20, 20, 142);
+}
+div {
+    color: aqua;
+}
+h2 {
+color: rgb(18, 183, 183);
+}
+/* subtitulos */
+#subtitulo {
+    color: aquamarine;
+}
+
